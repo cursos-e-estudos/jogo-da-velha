@@ -1,7 +1,7 @@
-# Template web
-template para usar nos estudos de web front-end.
+# Jogo da velha
+Joguinho da velha feito com HTML CSS e JS.
 
-Para testar a versão ao vivo, [clique aqui.](https://cursos-e-estudos.github.io/template-de-web/)
+Para testar a versão ao vivo, [clique aqui.](https://cursos-e-estudos.github.io/jogo-da-velha/)
 <br>
 
 <p align="center">
@@ -15,7 +15,7 @@ Para testar a versão ao vivo, [clique aqui.](https://cursos-e-estudos.github.io
 
 <br>
 
-
+<!-- 
 <p align="center">
 <b> Visual mobile </b>
 </p>
@@ -26,7 +26,7 @@ Para testar a versão ao vivo, [clique aqui.](https://cursos-e-estudos.github.io
 
 ---
 
-<br>
+<br> -->
 
 ## Outros projetinhos
 [<img align="left" width="25" url="https://github.com/souvitorgabriel" src="https://avatars0.githubusercontent.com/u/29991853?s=460&u=416e49036d2486832c45c6cb26c65e24690a3c8a&v=4">](https://github.com/souvitorgabriel) [@SouVitorGabriel](https://github.com/souvitorgabriel) Projetos pessoais podem ser vistos no meu perfil.
